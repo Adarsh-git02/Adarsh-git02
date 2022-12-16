@@ -8,6 +8,11 @@ them.
 - 💞️ Love to interact with new technologies, learn them and explore them. 
 - 😄 You'll find me - Self-motivated, Focused, Hardworking & curious.
 
+
+
+
+# Connect with me on
+https://www.linkedin.com/in/adarsh-kumar-gupta-b0654a226/
 <!---
 Adarsh-git02/Adarsh-git02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
