@@ -1,12 +1,12 @@
 # Hello👋, I'm Adarsh Kumar Gupta
-A student of B.Tech. in Computer Science and Engineering, currently in the 8th semester. I'm a
-passionate, hard-working individual keen
-in learning technologies and working on
-them.
+A Fresher Graduate of B.Tech in Computer Science and Engineering.
+Seeking a challenging position to apply and enhance technical skills
+in a dynamic work environment.
+Committed to delivering innovative solutions and contributing to the success of an organization.
 - 🔭 I’m currently working on HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB.
 - 🌱 I’m also focused on Data Structures and Algorithms, Problem Solving.
 - 💞️ Love to interact with new technologies, learn them and explore them. 
-- 😄 You'll find me - Self-motivated, Focused, Hardworking & curious.
+- 😄 You'll find me - Self-motivated, Enthusiastic, Focused, Hardworking & curious.
 
 
 
