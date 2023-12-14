@@ -3,7 +3,7 @@ A Fresher Graduate of B.Tech in Computer Science and Engineering.
 Seeking a challenging position to apply and enhance technical skills
 in a dynamic work environment.
 Committed to delivering innovative solutions and contributing to the success of an organization.
-- 🔭 I’m currently working on HTML5, CSS3, JavaScript, Node.js, React.js, MongoDB.
+- 🔭 I’m currently working on HTML5, CSS3, JavaScript, JQuery, React.js, Core Java.
 - 🌱 I’m also focused on Data Structures and Algorithms, Problem Solving.
 - 💞️ Love to interact with new technologies, learn them and explore them. 
 - 😄 You'll find me - Self-motivated, Enthusiastic, Focused, Hardworking & curious.
